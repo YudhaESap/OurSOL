@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("YourProgramIDHere");
+declare_id!("OurSOL");
 
 #[program]
 pub mod my_social_nft {
