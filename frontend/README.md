@@ -2,7 +2,7 @@
 
 This is the frontend interface for **OurSOL**, a Solana-based project for minting non-transferable, soulbound tokens that encode your personal identity or beliefs.
 
-> 🌐 Live Demo: [https://your-username.github.io/OurSOL-frontend/](https://your-username.github.io/OurSOL-frontend/)
+> 🌐 Live Demo: [https://yudhaesap.github.io/OurSOL-frontend/](https://your-username.github.io/OurSOL-frontend/)
 
 ---
 
